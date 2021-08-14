@@ -1,0 +1,18 @@
+li a, a.button {
+	list-style: none;
+}
+
+a.button:link, a.button:visited {
+	text-decoration: none;
+	background-color: darkblue;
+	border: 2px darkblue;
+	color: white;
+	display: block;
+	width: 170;
+	text-align: center;
+	margin-bottom: 2px;
+}
+a.button:hover, a.button:active {
+	background-color: white;
+	color: darkblue;
+}
