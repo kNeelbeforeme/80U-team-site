@@ -1,3 +1,9 @@
+p {
+	font-family: sans-serif;
+	font-size: 130%;
+}
+
+
 li a, a.button {
 	list-style: none;
 }
@@ -8,7 +14,7 @@ a.button:link, a.button:visited {
 	border: 2px darkblue;
 	color: white;
 	display: block;
-	width: 170;
+	width: 170px;
 	text-align: center;
 	margin-bottom: 2px;
 }
